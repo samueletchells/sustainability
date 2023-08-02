@@ -1,0 +1,49 @@
+nav ul {
+    background-color: cornsilk ;
+    overflow:hidden;
+    list-style-type:none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+    nav a {
+        float: right; 
+        display:block;
+        color: ;
+        text-align: ;
+        padding: 5px;
+        text-decoration: none;
+      }
+
+      body {
+        text-align: center;
+        background-color: rgb 0,0,0;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+      }
+
+      #slivingul {
+       
+
+        list-style-type:none;
+      }
+
+      
+nav a:hover {
+    background-color: burlywood;
+    border-radius: 5px;
+    }
+    
+    #active {
+      background-color: burlywood;
+      border-radius: 5px;
+    }
+
+    
+img {
+    max-width: 500px;
+    height: auto;
+  }
+
+  #tree {
+max-width: 250px;
+  }
